@@ -31,7 +31,6 @@ public class BOJ1475 {
 			if(max < numbers[i]) max = numbers[i];
 		}
 		System.out.println(max);
-		
+		sc.close();
 	}
-
 }
